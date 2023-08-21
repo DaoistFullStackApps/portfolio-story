@@ -1,4 +1,4 @@
-import 
+import StorryTeller from '../../hooks/StorryTeller'
 import Image from 'next/image'
 
 export default function Home() {
